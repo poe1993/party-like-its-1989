@@ -11,7 +11,7 @@ class App extends Component {
         <main>
           <Movies />
         </main>
-        <footer>Suncoast Programmer's Guild</footer>
+        <footer>SUNCOAST DEVELOPER'S GUILD</footer>
       </body>
     )
   }
