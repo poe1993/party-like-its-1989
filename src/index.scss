@@ -9,4 +9,38 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  background-image: url('https://image.freepik.com/free-vector/80s-geometric-background-design-with-retro-style_23-2148236139.jpg');
+  background-size: 46.8rem;
+}
+.title {
+  text-align: center;
+  color: orange;
+  margin-left: 4rem;
+}
+
+.movietitle {
+  text-align: center;
+  color: orange;
+}
+.imagelist {
+  margin-left: 33rem;
+}
+
+.releasedate {
+  color: orange;
+  text-align: center;
+}
+
+.voteraverage {
+  color: orange;
+  text-align: center;
+  margin-right: 3rem;
+}
+.votecount {
+  color: orange;
+  text-align: center;
+  margin-right: 3rem;
+}
+.overview {
+  color: orange;
 }

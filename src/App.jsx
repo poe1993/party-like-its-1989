@@ -1,8 +1,19 @@
 import React, { Component } from 'react'
+import { Movies } from './Movies'
 
 class App extends Component {
   render() {
-    return <div>Hello, World!</div>
+    return (
+      <body>
+        <header>
+          <h1 className="title">Party Like Its 1989!</h1>
+        </header>
+        <main>
+          <Movies />
+        </main>
+        <footer>Suncoast Programmer's Guild</footer>
+      </body>
+    )
   }
 }
 
